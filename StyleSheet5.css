@@ -1,0 +1,30 @@
+﻿
+{ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.one {
+    background-color:green;
+}
+.two {
+      background-color:red;
+  }
+.three {
+       background-color:blue
+   }
+#slots {
+    width: auto;
+    float: inherit;
+    border-radius: inherit;
+}
+#spin {
+    background-color: lightgreen;
+    margin: 3px 3px;
+    padding: 10px 30px;
+}
+#spin:hover {
+    background-color: darkgreen;
+    font-size: 40px;
+}
+#stop {
+    margin: 3px 3px;
+    padding: 8px 20px;
+}
